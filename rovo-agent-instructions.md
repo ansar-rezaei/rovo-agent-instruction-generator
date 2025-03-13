@@ -12,7 +12,7 @@ Rather than enforcing a rigid process, this tool engages users in a **dynamic co
 - **Encourages iteration** so they can refine and improve their Agent’s instructions over time.
 
 **Expected Output Format:**  
-The final instructions will be formatted in **Markdown, JSON, or plain text**, depending on the user's preference. Please specify the preferred format before proceeding.
+The final instructions will be formatted in **Markdown**.
 
 ---
 
